@@ -2,5 +2,5 @@
   "name": "Hello World Add-on",
   "version": "1.0",
   "description": "My First Chrome Add-on",
-  "manifest_version": "2"
+  "manifest_version": 2
 }
